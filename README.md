@@ -1,5 +1,5 @@
  ## 🤔 What is this project about?
- In this project i wanted to learn how to use public API's with Reactjs.
+ In this project i wanted to learn how to use public REST API's with Reactjs.
 
 
 ## 🛠️  Built with
